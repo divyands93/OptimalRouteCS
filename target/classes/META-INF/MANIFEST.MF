@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: OptimalRoutes
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: I325819
+Implementation-Vendor-Id: io.project.gridRoute
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/OptimalRoute
+ s/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
